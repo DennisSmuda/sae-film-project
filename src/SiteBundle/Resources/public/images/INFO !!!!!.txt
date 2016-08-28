@@ -1,0 +1,15 @@
+Ist nur so eine leichte Vorlage, du kannst es so wie es dir am besten passt selbst gestalten.
+
+Hab dir 2 Logos von Nintendo reingeknallt. Je nach dem welches Besser passt. 
+
+Wie gesagt Design kannst du eigtl frei gestalten. Kannst trashig, oder modern oder ganz anders wie du meinst.
+
+Wenn man unten auf BUY klickt sollte man zur nächsten Seite gelangen.
+
+Da kannst du einafch so ein Standard Verkaufsformular machen siehe hier -> https://gyazo.com/4885b92607ce56cb2ac4452de0e47d8b
+
+Am Ende des Formulars sollten dann 2 Buttons sein mit [Standardversand] [30 Minute Express Versand]
+
+Und mir fällt gerade ein. Wenn man dann auf den [30 Minute Express Versand] Button klickt soll irgendwie eine Kaufbestättigung aufpoppen.
+
+Es reicht einfaches Einblenden von "Kauf bestättig, Ware wird Versand" oder so.

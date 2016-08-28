@@ -4,13 +4,27 @@
 {% block body %}
 
   <main id="barba-wrapper">
-    <div class="main__inner barba-container">
-      <h1>Detail Page</h1>
+    <div class="main__inner form barba-container">
+      <h1>Bestellung</h1>
 
+      <div class="form-row">
+        <span>Vorname*</span><input type="text">
+      </div>
 
-      <p>
-        Butz
-      </p>
+      <div class="form-row">
+        <span>Nachname*</span><input type="text">
+      </div>
+
+      <div class="form-row">
+        <span>Straße und Hausnummer*</span><input type="text">
+      </div>
+
+      <div class="form-row">
+        <span>Email*</span><input type="text">
+      </div>
+
+      <a href="#modal" style="left: 2rem;" class="order-button">Expressversand</a>
+      <a href="#modal" style="right: 2rem;" class="order-button">Standard</a>
     </div>
   </main>
 

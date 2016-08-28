@@ -1,10 +1,13 @@
+header {
+  img { max-height: 40px;}
+}
 
 header {
   position: relative;
   padding: 1rem;
   color: $ruby-shade;
-  background-color: $sunflower;
-  border-bottom: 1rem solid $sunflower-shade;
+  //background-color: $sunflower;
+  //border-bottom: 1rem solid $sunflower-shade;
 
   @include display(flex);
   @include flex-direction(row);
@@ -22,7 +25,7 @@ header {
     @include transition(all 0.6s);
 
     &:hover {
-      background-color: $ruby-shade;
+      //background-color: $ruby-shade;
     }
   }
 
